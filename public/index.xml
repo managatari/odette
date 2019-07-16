@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Odette</title>
+    <link>http://example.org/</link>
+    <description>Recent content on Odette</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 01 Jul 2019 16:44:20 +0900</lastBuildDate>
+    
+	<atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>店舗紹介</title>
+      <link>http://example.org/posts/shop/</link>
+      <pubDate>Mon, 01 Jul 2019 16:44:20 +0900</pubDate>
+      
+      <guid>http://example.org/posts/shop/</guid>
+      <description> 概要 ヘアメイク、ヘアセット等行う歌舞伎町の美容室「Odette」  キャバ嬢、ホストの方 プロの手によるヘアセット、メイクを行いたい方 カラー、カットも行なっております。  アクセス  住所:東京都新宿区歌舞伎町2-22-8 金嶋ビル3F   </description>
+    </item>
+    
+    <item>
+      <title>料金表</title>
+      <link>http://example.org/posts/menu/</link>
+      <pubDate>Mon, 01 Jul 2019 16:44:20 +0900</pubDate>
+      
+      <guid>http://example.org/posts/menu/</guid>
+      <description> 料金メニュー 【メニュー】  ヘアセット ￥1500- ヘアカット ￥3000- ヘアカラー ￥4000- トリートメント ￥2500- 指名料 ￥500-  不明点についてはご質問ください！ </description>
+    </item>
+    
+    <item>
+      <title>求人募集</title>
+      <link>http://example.org/posts/recuruit/</link>
+      <pubDate>Mon, 01 Jul 2019 16:44:20 +0900</pubDate>
+      
+      <guid>http://example.org/posts/recuruit/</guid>
+      <description> 求人概要 【営業時間】  15:00～23:00(最終受付22:30) ※時間外応相談  【応募資格】  経験者はもちろん、ヘアメイク・サロンワーク未経験者も歓迎  【給与】  時給:1500円以上~(※経験・能力考慮の上で決定します)  ※試用期間中は時給1400円 ※インセンティブあり ※昇給随時   【勤務時間】  15:00～23:00　 週1日~/1日3時間~OK　 ※シフト制  </description>
+    </item>
+    
+  </channel>
+</rss>
