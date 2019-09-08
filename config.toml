@@ -2,13 +2,13 @@
 # languageCode = "en-us"
 
 # theme = "hyde"
-# description = "歌舞伎町のヘアサロン、Odette"
+
 
 title = "Odette"
 baseURL = "https://confident-lalande-6ba1dd.netlify.com"
 languageCode = "en-us"
 theme = "gohugo-theme-ananke"
-# themesDir = "../.."
+description = "歌舞伎町のヘアサロン、Odette"
 
 MetaDataFormat = "yaml"
 DefaultContentLanguage = "en"
