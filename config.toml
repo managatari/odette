@@ -5,7 +5,7 @@
 
 
 title = "Odette"
-baseURL = "https://www.odettehairmake.info"
+baseURL = "https://managatari.github.io/"
 languageCode = "en-us"
 theme = "gohugo-theme-ananke"
 description = "歌舞伎町のヘアサロン、Odette"
